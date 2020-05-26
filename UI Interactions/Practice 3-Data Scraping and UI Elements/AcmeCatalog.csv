@@ -1,0 +1,10 @@
+﻿Title,URL,Description
+Google GSuite,https://go.uipath.com/component/google-gsuite,"This set of activities will help you interact with Google Calendar, Drive, Sheets, and Gmail"
+Activity Creator,https://go.uipath.com/component/activity-set-creator,A Visual Studio extension that creates custom activities for you in minutes
+Personal Interactive Assistant,https://go.uipath.com/component/personal-interactive-framework,An attended automation framework that enhances the interaction between the user and the robot
+ABBYY - FlexiCapture Connector,https://go.uipath.com/component/abbyy-flexicapture-connector-for-uipath-31cc20,ABBYY FlexiCapture Connector enables UiPath robot designers to connect ABBYY FlexiCapture Distributed into a robotic process flow
+Microsoft Office 365,https://go.uipath.com/component/microsoft-office-365-669054,"Productivity just got easier with robots that can now collaborate using Microsoft Office 365 Activities for Excel Online, Outlook and, OneDrive"
+UiPath Face Recognition Framework,https://go.uipath.com/component/uipath-face-recognition-framework-51c6f7,The recognition is completely based on deep learning neural network and implanted using Tensorflow framework
+Split Address,https://go.uipath.com/component/split-address,This snippet splits an address contained in a single string and creates pairs based on key words
+Generic Kibana Dashboard,https://go.uipath.com/component/generic_kibana_dashboard-104d35,"This is a generic dashboard that provide details like AHT, bot and process relation, etc. using the default logs generated in Kibana with the default index (eg : Robot name, etc)"
+AI-OCR Workflow for Fast Accounting,https://go.uipath.com/component/ai-ocr-workflow-for-fast-accounting,Workflow to easily invoke AI-OCR service of Fast Accounting via Web API
